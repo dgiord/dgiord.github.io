@@ -1,5 +1,7 @@
 # Aspiring Data Analyst
 
+[Let's connect on LinkedIn!](https://www.linkedin.com/in/dario-giordano/)
+
 #### Technical Skills: Excel, SQL, Python
 
 ## Education
