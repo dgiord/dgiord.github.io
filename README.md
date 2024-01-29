@@ -16,7 +16,7 @@
 - Handling and supporting partner bookings
 - Handling front-end and back-end emergencies by being responsible for making decisions in critical situations
 
-**Driver Support Spacialist @ Daytrip (Jun 2023 - Feb 2023)**
+**Driver Support Specialist @ Daytrip (Jun 2023 - Feb 2023)**
 - Managing portfolio of 9000+ drivers
 - Managing real-time support requests
 - Assigning hundrends of trips daily to drivers all over the world
