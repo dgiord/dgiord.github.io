@@ -10,7 +10,7 @@
 
 ## Projects
 ### Renewable Energy SQL Project
-![View the presentation!](/projects/SQL_RenewableEnergy/Progetto SQL RenewableEnergy.pdf)
+![View the presentation!](https://github.com/dgiord/dgiord.github.io/blob/f77500d861fb0c93c30bf7010b420cebfc7a577c/projects/SQL_RenewableEnergy/SQL_Project.pdf)
 [View the code](/projects/SQL_RenewableEnergy/sql_renewableenergy.sql)
 
 For my first project, I used PostgreSQL to analyze the Kaggle Dataset [Renewable Energy World Wide : 1965~2022](https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022). This dataset on renewable energy contains data on renewable energy usage worldwide from 1965 to 2022. My analysis emphasizes how in the last ~15 years, countries have started making a bigger effort towards using a higher amount of renewable energy in their energy mix - however, this still hasn't been enough to heal decades of abuse on our planet.
