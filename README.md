@@ -10,9 +10,11 @@
 
 ## Projects
 ### Google Play store apps analysis
-View the code on Github
+[View the code on Github](/projects/Python_playstore/DarioGiordanoPython.ipynb)
 
 In my second project, I simulated a business case in which a developer has to create a new app for the Android market, and wants to make sure they know the best possible conditions in order for it to be as highly rated as possible. To find what type of app would perform best, I analyzed the [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps) Kaggle Dataset, using Python and its libraries Pandas, matplotlib and Seaborn. My analysis found what the most popular categories, genres and content ratings are for apps in the Google Play Store.
+
+![PlayStoreApps](/projects/Python_playstore/apps_preview.png)
 
 ### Renewable Energy SQL Project
 [Download the presentation](/projects/SQL_RenewableEnergy/SQL_Project.pdf)\
