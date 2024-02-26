@@ -10,7 +10,7 @@
 
 ## Projects
 ### Google Play Store Apps analysis
-[View the code on Github](https://github.com/dgiord/dgiord.github.io/blob/72a315dad115891732550730ab24b6ee41b0f098/projects/Python_playstore/DarioGiordanoPython.ipynb)\
+[View the code on Github](https://github.com/dgiord/dgiord.github.io/blob/72a315dad115891732550730ab24b6ee41b0f098/projects/Python_playstore/DarioGiordanoPython.ipynb)
 
 In my second project, I simulated a business case in which a developer has to create a new app for the Android market, and wants to make sure they know the best possible conditions in order for it to be as highly rated as possible. To find what type of app would perform best, I analyzed the [Google Play Store Apps](https://www.kaggle.com/datasets/lava18/google-play-store-apps) Kaggle Dataset, using Python and its libraries Pandas, matplotlib and Seaborn. My analysis found what the most popular categories, genres and content ratings are for apps in the Google Play Store.
 
