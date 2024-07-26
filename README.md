@@ -1,8 +1,8 @@
-# Aspiring Data Analyst
+# Junior Data Analyst
 
 [Let's connect on LinkedIn!](https://www.linkedin.com/in/dario-giordano/)
 
-#### Technical Skills: Excel, SQL, Python, Tableau
+#### Technical Skills: SQL, Python, Tableau, Azure, Databricks, Excel
 
 ## Education
 - Master in Data Analytics, start2impact University (Nov 2023 - Present)
@@ -26,15 +26,15 @@ For my first project, I used PostgreSQL to analyze the Kaggle Dataset [Renewable
 
 
 ## Work Experience
-**Senior Operations Specialist @ Daytrip (Feb 2023 - Dec 2023)**
-- Managing hundreds of daily support requests, enhancing company relationships with Italian partners
+
+**Data Analyst - Associate @ PwC Italy (March 2024 - Present)**
+-	Building and maintaining data flows on **Microsoft SQL Server**
+-	Development of data pipelines on **Azure Data Factory** and **Databricks** using **Python**
+-	Production of comprehensive documentation for data pipelines’ architecture and workflows
+-	Creation and optimization of **Power BI** dashboards to monitor KPIs
+  
+**Operations Specialist @ Daytrip (Feb 2023 - Dec 2023)**
+- Managing 100s of daily support requests, enhancing company relationships with Italian partners
 - Resolving 150+ tickets daily during the high season, averaging 15+ tickets daily
 - Overseeing the Operations team, standardizing processes and workload management
-- Negotiating compensations with drivers and timely resolution of emergencies
 - Effectively managing a ~90% increase in the number of bookings in 2023 compared to 2022, thanks to a more efficient team workflow
-
-**Driver Support Specialist @ Daytrip (Jun 2023 - Feb 2023)**
-- Managing a portfolio of over 9000 drivers, ensuring real-time support service
-- Assigning hundreds of trips daily, optimizing resource utilization
-- Resolving emergencies via chat and email, ensuring a seamless customer experience
-- Developing strategies to improve communication and strengthen relationships with corporate partners (Mozio, Airport Taxi Transfers, etc.)
