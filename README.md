@@ -18,10 +18,10 @@
 - Standardized communication processes across a remote team, ensuring efficient operations and collaboration through online tools (Slack, Google Workspace).
 
 #### Technical Skills
-**Coding & Tools**: Python, SQL, Data Factory, Databricks, DevOps, CI/CD, Git, REST APIs, Power BI, Tableau 
-**Databases**: Microsoft SQL Server, PostgreSQL, MySQL
-**Cloud Platforms**: Microsoft Azure, Google Cloud Platform
-**Other**: Excel, Microsoft Office, Google Workspace, Slack, AI tools (ChatGPT, Gemini, GitHub Copilot, etc.)
+**Coding & Tools**: Python, SQL, Data Factory, Databricks, DevOps, CI/CD, Git, REST APIs, Power BI, Tableau\
+**Databases**: Microsoft SQL Server, PostgreSQL, MySQL\
+**Cloud Platforms**: Microsoft Azure, Google Cloud Platform\
+**Other**: Excel, Microsoft Office, Google Workspace, Slack, AI tools (ChatGPT, Gemini, GitHub Copilot, etc.)\
 **Languages**: Italian (native), English (fluent, C2 Cambridge Certificate)
 
 ## Education
