@@ -1,8 +1,28 @@
-# Junior Data Analyst
+# Data Engineer
 
 [Let's connect on LinkedIn!](https://www.linkedin.com/in/dario-giordano/)
 
-#### Technical Skills: SQL, Python, Tableau, Azure, Databricks, Excel
+## Work Experience
+
+**Data Engineer** - Associate @ PwC Italy *(March 2024 - Present)*
+- Designed and developed **ETL pipelines** using **Azure Data Factory** and **Databricks**, optimizing data processing for large-scale datasets.
+- Implemented **CI/CD pipelines** on **Azure DevOps** for automating workflows, reducing deployment time by 30%.
+- Managing **pull requests** for DevOps repositories, overseeing deployments across Databricks environments.
+- Migrated Databricks environments (dev, qa, prd) using **Terraform**, ensuring seamless deployment and management across environments.
+- Built and optimized **Power BI** dashboards to monitor key business metrics and ensure data accuracy.
+- Developed and maintained data flows on **Microsoft SQL Server**, ensuring integration between various sources.
+  
+**Operations Specialist** @ Daytrip *(Feb 2023 - Dec 2023)*
+- Managed a portfolio of 9000+ drivers and handled 150+ daily support tickets during high-demand periods, showcasing strong problem-solving skills in a fast-paced, remote environment.
+- Improved workflows and automated processes, resulting in a 90% increase in annual bookings while leading the Operations team.
+- Standardized communication processes across a remote team, ensuring efficient operations and collaboration through online tools (Slack, Google Workspace).
+
+#### Technical Skills
+**Coding & Tools**: Python, SQL, Data Factory, Databricks, DevOps, CI/CD, Git, REST APIs, Power BI, Tableau 
+**Databases**: Microsoft SQL Server, PostgreSQL, MySQL
+**Cloud Platforms**: Microsoft Azure, Google Cloud Platform
+**Other**: Excel, Microsoft Office, Google Workspace, Slack, AI tools (ChatGPT, Gemini, GitHub Copilot, etc.)
+**Languages**: Italian (native), English (fluent, C2 Cambridge Certificate)
 
 ## Education
 - Master in Data Analytics, start2impact University (Nov 2023 - Present)
@@ -25,16 +45,5 @@ For my first project, I used PostgreSQL to analyze the Kaggle Dataset [Renewable
 ![RenewableEnergy](/projects/SQL_RenewableEnergy/renewable_preview.png)
 
 
-## Work Experience
 
-**Data Analyst - Associate @ PwC Italy (March 2024 - Present)**
--	Building and maintaining data flows on **Microsoft SQL Server**
--	Development of data pipelines on **Azure Data Factory** and **Databricks** using **Python**
--	Production of comprehensive documentation for data pipelines’ architecture and workflows
--	Creation and optimization of **Power BI** dashboards to monitor KPIs
-  
-**Operations Specialist @ Daytrip (Feb 2023 - Dec 2023)**
-- Managing 100s of daily support requests, enhancing company relationships with Italian partners
-- Resolving 150+ tickets daily during the high season, averaging 15+ tickets daily
-- Overseeing the Operations team, standardizing processes and workload management
-- Effectively managing a ~90% increase in the number of bookings in 2023 compared to 2022, thanks to a more efficient team workflow
+
